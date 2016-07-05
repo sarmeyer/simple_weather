@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(http://static3.techinsider.io/image/546a5d5269bedd6e3cf52cef-3032-1986/1398245798_53be956505_o.jpg);
+    background-size: cover;
+    color: white;
+}
+.page-title {
+  font-family: 'Galada', cursive;
+  font-size: 2em;
+}
+.main {
+    text-align: center;
+}
+.city {
+  font-family: 'Galada', cursive;
+    font-size: 2em;
+}
+.temp {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    font-size: 1.5em;
+}
+input {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.7em;
+    color: orange;
+}
